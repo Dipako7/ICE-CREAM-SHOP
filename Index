@@ -1,1 +1,61 @@
+<div id="home-page" class="page-content active">
+        <!-- Hero Section -->
+        <section class="hero-section">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="hero-content fade-in visible">
+                            <h1 class="hero-title">Sweet Dreams Ice Cream</h1>
+                            <p class="hero-subtitle">Indulge in our premium handcrafted ice cream made with love and the finest ingredients</p>
+                            <button class="btn btn-custom" onclick="showPage('menu')">View Our Flavors</button>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="text-center">
+                            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 400 400'%3E%3Ccircle cx='200' cy='200' r='180' fill='%23ff9a9e'/%3E%3Ccircle cx='200' cy='160' r='40' fill='%23ffd700'/%3E%3Ccircle cx='200' cy='120' r='35' fill='%23ff6b9d'/%3E%3Ccircle cx='200' cy='85' r='30' fill='%234ecdc4'/%3E%3Crect x='190' y='220' width='20' height='100' fill='%23d4a574' rx='10'/%3E%3C/svg%3E" alt="Ice Cream Cone" class="img-fluid" style="max-width: 300px;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Floating ice cream icons -->
+            <div class="floating-ice" style="top: 20%; left: 10%;"><i class="fas fa-ice-cream"></i></div>
+            <div class="floating-ice" style="top: 60%; right: 15%; animation-delay: 2s;"><i class="fas fa-ice-cream"></i></div>
+            <div class="floating-ice" style="top: 30%; right: 30%; animation-delay: 4s;"><i class="fas fa-ice-cream"></i></div>
+        </section>
 
+        <!-- Features Section -->
+        <section class="section-padding">
+            <div class="container">
+                <h2 class="section-title">Why Choose Sweet Dreams?</h2>
+                <div class="row">
+                    <div class="col-md-4 mb-4">
+                        <div class="custom-card card h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-leaf fa-3x text-success mb-3"></i>
+                                <h5 class="card-title">Natural Ingredients</h5>
+                                <p class="card-text">We use only the finest natural ingredients, sourced locally whenever possible for the freshest taste.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-4">
+                        <div class="custom-card card h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-award fa-3x text-warning mb-3"></i>
+                                <h5 class="card-title">Award Winning</h5>
+                                <p class="card-text">Our ice cream has won multiple local and regional awards for taste and quality.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-4">
+                        <div class="custom-card card h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-heart fa-3x text-danger mb-3"></i>
+                                <h5 class="card-title">Made with Love</h5>
+                                <p class="card-text">Every scoop is crafted with passion and care by our experienced ice cream artisans.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
