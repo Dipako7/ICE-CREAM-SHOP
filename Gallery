@@ -1,1 +1,69 @@
 
+<div id="gallery-page" class="page-content">
+        <div class="page-header">
+            <div class="container">
+                <h1 class="page-title">Sweet Moments Gallery</h1>
+                <p class="lead">Discover our delicious creations and happy customers</p>
+            </div>
+        </div>
+        
+        <section class="section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 mb-4">
+                        <div class="gallery-item">
+                            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='250' viewBox='0 0 300 250'%3E%3Crect width='300' height='250' fill='%23ff9a9e'/%3E%3Ccircle cx='150' cy='100' r='40' fill='%23fff'/%3E%3Ccircle cx='150' cy='60' r='30' fill='%23ff6b9d'/%3E%3Ctext x='150' y='200' font-family='Arial' font-size='16' text-anchor='middle' fill='%23fff'%3EDelicious Scoops%3C/text%3E%3C/svg%3E" alt="Delicious Ice Cream Scoops" class="img-fluid">
+                            <div class="gallery-overlay">
+                                <i class="fas fa-search-plus fa-2x text-white"></i>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4 mb-4">
+                        <div class="gallery-item">
+                            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='250' viewBox='0 0 300 250'%3E%3Crect width='300' height='250' fill='%234ecdc4'/%3E%3Ccircle cx='100' cy='125' r='60' fill='%23fff'/%3E%3Ccircle cx='200' cy='125' r='60' fill='%23fff'/%3E%3Ctext x='150' y='220' font-family='Arial' font-size='16' text-anchor='middle' fill='%23fff'%3EHappy Customers%3C/text%3E%3C/svg%3E" alt="Happy Customers Enjoying Ice Cream" class="img-fluid">
+                            <div class="gallery-overlay">
+                                <i class="fas fa-search-plus fa-2x text-white"></i>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4 mb-4">
+                        <div class="gallery-item">
+                            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='250' viewBox='0 0 300 250'%3E%3Crect width='300' height='250' fill='%23ffe66d'/%3E%3Crect x='50' y='50' width='200' height='150' rx='10' fill='%23fff'/%3E%3Ctext x='150' y='125' font-family='Arial' font-size='14' text-anchor='middle' fill='%236c757d'%3EIce Cream Shop%3C/text%3E%3Ctext x='150' y='220' font-family='Arial' font-size='16' text-anchor='middle' fill='%23fff'%3EOur Cozy Shop%3C/text%3E%3C/svg%3E" alt="Sweet Dreams Ice Cream Shop" class="img-fluid">
+                            <div class="gallery-overlay">
+                                <i class="fas fa-search-plus fa-2x text-white"></i>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4 mb-4">
+                        <div class="gallery-item">
+                            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='250' viewBox='0 0 300 250'%3E%3Crect width='300' height='250' fill='%23fecfef'/%3E%3Ccircle cx='80' cy='80' r='25' fill='%238B4513'/%3E%3Ccircle cx='150' cy='80' r='25' fill='%23FFB6C1'/%3E%3Ccircle cx='220' cy='80' r='25' fill='%2398FB98'/%3E%3Ctext x='150' y='220' font-family='Arial' font-size='16' text-anchor='middle' fill='%23333'%3EFresh Flavors%3C/text%3E%3C/svg%3E" alt="Fresh Ice Cream Flavors" class="img-fluid">
+                            <div class="gallery-overlay">
+                                <i class="fas fa-search-plus fa-2x text-white"></i>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4 mb-4">
+                        <div class="gallery-item">
+                            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='250' viewBox='0 0 300 250'%3E%3Crect width='300' height='250' fill='%23ff6b9d'/%3E%3Cpath d='M50 200 Q150 100 250 200' stroke='%23fff' stroke-width='8' fill='none'/%3E%3Ccircle cx='100' cy='160' r='15' fill='%23fff'/%3E%3Ccircle cx='200' cy='160' r='15' fill='%23fff'/%3E%3Ctext x='150' y='40' font-family='Arial' font-size='16' text-anchor='middle' fill='%23fff'%3ESweet Celebrations%3C/text%3E%3C/svg%3E" alt="Ice Cream Celebrations" class="img-fluid">
+                            <div class="gallery-overlay">
+                                <i class="fas fa-search-plus fa-2x text-white"></i>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-4 mb-4">
+                        <div class="gallery-item">
+                            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='250' viewBox='0 0 300 250'%3E%3Crect width='300' height='250' fill='%23667eea'/%3E%3Crect x='120' y='80' width='60' height='120' rx='30' fill='%23d4a574'/%3E%3Ccircle cx='150' cy='60' r='25' fill='%23ff9a9e'/%3E%3Ccircle cx='150' cy='35' r='20' fill='%23ffd700'/%3E%3Ctext x='150' y='220' font-family='Arial' font-size='16' text-anchor='middle' fill='%23fff'%3EPerfect Cones%3C/text%3E%3C/svg%3E" alt="Perfect Ice Cream Cones" class="img-fluid">
+                            <div class="gallery-overlay">
+                                <i class="fas fa-search-plus fa-2x text-white"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
